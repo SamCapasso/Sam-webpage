@@ -1,6 +1,6 @@
 body{
-    background:green;
-    color: #70003D;
+    background:blue;
+    color: #41E9F0;
     margin: 100px;
 }
 p{
@@ -14,9 +14,9 @@ p.noun{
     color:white;
 }
 img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
+  border: 10px solid #ddd;
+  border-radius: 10px;
   padding: 5px;
-  width: 150px;
+  width: 200px;
 
 }
