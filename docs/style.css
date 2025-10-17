@@ -5,17 +5,18 @@ body{
 }
 p{
     color: #FF33F0;
+    
 }
 .noun{
     font-weight: 900;
     color: black;
 }
-p.noun{
-    color:white;
-}
+p.hg{color:white;}
+p.rg{color:pink;}
+p.mg{color:red;}
 img {
-  border: 10px solid #ddd;
-  border-radius: 10px;
+  border: 5px solid #F54927;
+  border-radius: 5px;
   padding: 5px;
   width: 200px;
 
