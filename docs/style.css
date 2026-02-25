@@ -10,14 +10,40 @@ p{
 .noun{
     font-weight: 900;
     color: black;
+    
 }
 p.hg{color:white;}
 p.rg{color:pink;}
 p.mg{color:red;}
-img {
-  border: 5px solid #F54927;
-  border-radius: 5px;
+  img {
+  /* border: 5px solid #F54927;
+  border-radius: 5px;*/
   padding: 5px;
   width: 200px;
 
 }
+a:link {
+  color: blue;
+  background-color: #F54927;
+  font-weight: bold;
+  border-style: dotted;
+}
+
+a:visited {
+  color: #F54927;
+  background-color: blue;
+  font-weight: bold;
+  border-style: dotted;
+}
+
+a:hover {
+  color: blue;
+  background-color: white;
+  font-weight: bold;
+  border-style: dotted;
+}
+table,th,td{
+    border: 3px solid;
+    color: #F54927;
+}
+td:hover {background-color: white; }
