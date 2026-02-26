@@ -23,25 +23,16 @@ p.mg{color:red;}
 
 }
 a:link {
-  color: blue;
-  background-color: #F54927;
+  color: #F54927;
   font-weight: bold;
-  border-style: dotted;
 }
 
 a:visited {
   color: #F54927;
-  background-color: blue;
   font-weight: bold;
-  border-style: dotted;
 }
 
-a:hover {
-  color: blue;
-  background-color: white;
-  font-weight: bold;
-  border-style: dotted;
-}
+
 table,th,td{
     border: 3px solid;
     color: #F54927;
